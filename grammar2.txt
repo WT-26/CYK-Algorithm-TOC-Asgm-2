@@ -1,8 +1,0 @@
-S
-LP RP j
-S L B A J
-S LB
-L LP
-J j
-B JA
-A JA RP
