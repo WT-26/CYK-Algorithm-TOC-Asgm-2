@@ -1,0 +1,17 @@
+S
+[ ] i j k
+S R T Q L B I J K U
+S LU
+U R2B
+R2B R2 CBR
+CBR CBR2
+CBR2 RB
+R JT KQ
+T IR *
+Q JK *
+L [
+B ]
+I i
+J j
+K k
+RB B
