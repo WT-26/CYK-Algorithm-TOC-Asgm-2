@@ -1,12 +1,13 @@
 S
-[ ] i j k
+LP RP i j k
 S R T Q A B C D E F
+
 S AF
 R DT EQ j k
 T CR
 Q DE
-A [
-B ]
+A LP
+B RP
 C i
 D j
 E k
